@@ -1,0 +1,2 @@
+# Bayka.json
+Mavi tik
